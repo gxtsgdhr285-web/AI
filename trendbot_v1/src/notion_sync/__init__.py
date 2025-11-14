@@ -1,1 +1,0 @@
-# notion_sync package

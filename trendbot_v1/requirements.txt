@@ -1,6 +1,0 @@
-requests
-feedparser
-openai
-python-dotenv
-beautifulsoup4
-markdown
